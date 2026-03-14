@@ -9,7 +9,8 @@ A machine learning web app that compares multiple algorithms for iris species cl
 - Interactive data exploration
 
 ## Live Demo
-[Your Streamlit Cloud URL will go here]
+## Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_cloud_badge_black.svg)](https://ghosh-iris-classifier.streamlit.app)
 
 ## How to Run Locally
 ```bash
